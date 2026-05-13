@@ -25,7 +25,7 @@ python logs_agent.py
 
 # Log Analysis AI Agent using Python, Ollama & Strands Framework
 
-## 🟦 Situation (Problem / Idea)
+## Situation (Problem / Idea)
 
 In real-world DevOps and production environments, log files continuously grow and contain large amounts of system information, warnings, and errors.
 
@@ -37,7 +37,7 @@ The idea was to build an AI-powered Log Analysis Agent capable of reading log fi
 
 ---
 
-## 🟦 Task (Responsibility / Goal)
+## Task (Responsibility / Goal)
 
 My task was to design and develop an AI Agent that could:
 
@@ -52,7 +52,7 @@ The goal was to reduce repetitive manual log analysis effort and improve visibil
 
 ---
 
-## 🟦 Action (Actual Implementation / Tools / Technologies)
+## Action (Actual Implementation / Tools / Technologies)
 
 I implemented the project using Python with the Strands Agentic Framework and integrated Ollama-based local LLM models.
 
@@ -87,7 +87,7 @@ During development, I worked on:
 
 ---
 
-## 🟦 Result (Outcome / Quantifiable Impact)
+## Result (Outcome / Quantifiable Impact)
 
 * Successfully developed an AI-powered Log Analysis Agent capable of analyzing application log files locally.
 
